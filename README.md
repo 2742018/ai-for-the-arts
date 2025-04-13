@@ -1,7 +1,7 @@
-# AI for the Arts and Portfolio
+# AI for the Arts Portfolio
 
 ## Purpose
-This repository showcases my coding exercises and creative exploration of AI for the Arts and Humanities course.
+This repository showcases my coding exercises and creative exploration of AI for the Arts course.
 
 ## Goals
 - Learn GitHub basics
