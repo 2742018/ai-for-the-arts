@@ -31,4 +31,4 @@ Part 4: Creative AI application design and reflection. (Application_of_Large_Lan
 
 Each part of this repository includes the source code and my reflections to provide context and insights into my learning process.
 
-*Note: there are 2 Coding Exercises book (with and without outputs)
+(Note: there are 2 Coding Exercises book (with and without outputs) for better viewing)
