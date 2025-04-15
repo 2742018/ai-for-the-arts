@@ -21,9 +21,9 @@ I have combined Python programming with AI-assisted development tools like GitHu
 
 ## Contents
 
-Part 1: Setting up GitHub, Codespaces, and Copilot. (Coding_Exercises_Book 1.ipynb)
+Part 1: Setting up GitHub, Codespaces, and Copilot. (Coding_Exercises_Book.ipynb)
 
-Part 2: Python programming basics, multimedia integration, and data parsing. (Coding_Exercises_Book 1/2/3/4/5.ipynb)
+Part 2: Python programming basics, multimedia integration, and data parsing. (Coding_Exercises_Book.ipynb)
 
 Part 3: Machine learning exploration using scikit-learn datasets. (Machine_learning_Exploration.ipynb)
 
