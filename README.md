@@ -1,3 +1,5 @@
+##### My GitHub Repository: https://github.com/2742018/ai-for-the-arts.git
+
 # AI for the Arts and Humanities: Creative Coding Portfolio
 
 ## GUID: 2742018
